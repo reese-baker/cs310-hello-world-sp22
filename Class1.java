@@ -18,4 +18,8 @@ public class Class1 {
         //Hotfix
         }
 
+    private void f4() {
+        // v4.0
+        }
+
 }
